@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"Người nhện",
+        "seo":"nguoi-nhen",
+        "image":"http://static.hdo.tv/i/resources/new/film/215x311/2018/06/08/spider-man-into-the-spider-verse.jpg?v=01",
+        "url":"xem-phim/hdonline-phim-spider-man-into-the-spider-verse-15674.html"
+    },
+    {
+      "id":2,
+      "name":"Người nhện 2",
+      "seo":"nguoi-nhen",
+      "image":"http://media.bilutv.net/uploads/2018/04/150/phim-nguoi-nhen-2-spider-man-2-2004-201804553.jpg",
+      "url":"xem-phim/bilutv-phim-nguoi-nhen-2-spider-man-2-2004-1701"
+    },
+    {
+      "id":3,
+      "name":"Người nhện 3",
+      "seo":"nguoi-nhen",
+      "image":"http://media.bilutv.net/uploads/2017/07/150/spider-man-homecoming-201707730.jpg",
+      "url":"xem-phim/bilutv-phim-nguoi-nhen-tro-ve-nha-spider-man-homecoming-2017-3523"
+    }
+  ]
